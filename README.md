@@ -1,19 +1,9 @@
 # jpa02-nikitahuynh
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s26/jpa02-nikitahuynh
-
 Repo: https://ucsb-cs156-s26/STARTER-jpa02
 
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
-
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-nikitahuynh.dokku-16.cs.ucsb.ed
 
 
 # About this repo
