@@ -1,9 +1,9 @@
 # jpa02-nikitahuynh
 
-Repo: https://ucsb-cs156-s26/STARTER-jpa02
+Repo: https://ucsb-cs156-s26/jpa02-nikitahuynh
 
 
-Deployed at: https://jpa02-nikitahuynh.dokku-16.cs.ucsb.ed
+Deployed at: https://jpa02-nikitahuynh.dokku-16.cs.ucsb.edu
 
 
 # About this repo
