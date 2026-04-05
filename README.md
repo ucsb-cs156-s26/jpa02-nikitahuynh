@@ -1,14 +1,9 @@
-# STARTER-jpa02
-
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa02` above
-  to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
-  this TODO item.
+# jpa02-nikitahuynh
 
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s26/jpa02-cgaucho
+  https://github.com/ucsb-cs156-s26/jpa02-nikitahuynh
 
 Repo: https://ucsb-cs156-s26/STARTER-jpa02
 
